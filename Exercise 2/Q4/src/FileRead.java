@@ -8,7 +8,7 @@ public class FileRead {
         // File file = new File("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox.txt");
 
         try {
-            Scanner scanner = new Scanner(new FileReader("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox.txt"));
+            Scanner scanner = new Scanner(new FileReader("fox.txt"));
             StringBuilder sb = new StringBuilder();
             while (scanner.hasNext()) {
                 sb.append(scanner.next());
