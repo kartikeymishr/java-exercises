@@ -5,29 +5,42 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class WordFrequency {
-    public static void main(String[] args) {
-        Map<String, Integer> wordCounts = new HashMap<String, Integer>();
+    private Map<String, Integer> wordCount = new HashMap<String, Integer>();
+    private File file;
 
+    public WordFrequency(String filePath) {
+        this.file = new File(filePath);
+    }
+
+    public void populateWordCountMap() {
         try {
-            Scanner scanner = new Scanner(new File("/home/kartikey/Desktop/java-exercises/Exercise 2/Q9/FileDemo"));
+            Scanner sc = new Scanner(file);
 
-            while (scanner.hasNext()) {
-                String next = scanner.next().toLowerCase();
+            while (sc.hasNext()) {
+                String next = sc.next().toLowerCase();
 
-                if (!wordCounts.containsKey(next)) {
-                    wordCounts.put(next, 1);
+                if (!wordCount.containsKey(next)) {
+                    wordCount.put(next, 1);
                 } else {
-                    wordCounts.put(next, wordCounts.get(next) + 1);
+                    wordCount.put(next, wordCount.get(next) + 1);
                 }
             }
 
-            scanner.close();
+            sc.close();
         } catch (FileNotFoundException e) {
             System.out.println("ERROR: File not found");
         }
+    }
 
-        for (String key : wordCounts.keySet()) {
-            System.out.println(key + " - " + wordCounts.get(key));
+    public void displayValues() {
+        for (String key : wordCount.keySet()) {
+            System.out.println(key + " - " + wordCount.get(key));
         }
+    }
+
+    public static void main(String[] args) {
+        WordFrequency wf = new WordFrequency("/home/kartikey/Desktop/java-exercises/Exercise 2/Q9/FileDemo");
+        wf.populateWordCountMap();
+        wf.displayValues();
     }
 }

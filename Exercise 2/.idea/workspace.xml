@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005059a8-363c-4242-8210-6cfa41c7162d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Q8/src/FilterFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q9/FileDemo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q9/Q9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q9/src/WordFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1/src/PalindromeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1/src/PalindromeInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q4/src/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/src/FileRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q6/src/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q6/src/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q9/src/WordFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q9/src/WordFrequency.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +15,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FilterFiles.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q8/src/FilterFiles.java">
+      <file leaf-file-name="WordFrequency.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="361">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileRead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grades.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q6/src/Grades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="8" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -49,7 +64,6 @@
         <option value="$PROJECT_DIR$/Q1/src/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/Q3/src/MemberVariable.java" />
         <option value="$PROJECT_DIR$/Q5/src/EvenNumTest.java" />
-        <option value="$PROJECT_DIR$/Q6/src/Grades.java" />
         <option value="$PROJECT_DIR$/src/Factorials.java" />
         <option value="$PROJECT_DIR$/Q4/src/FileReadTest.java" />
         <option value="$PROJECT_DIR$/Q3/src/Member.java" />
@@ -61,6 +75,7 @@
         <option value="$PROJECT_DIR$/Q4/src/FileRead.java" />
         <option value="$PROJECT_DIR$/Q9/FileDemo" />
         <option value="$PROJECT_DIR$/Q9/src/WordFrequency.java" />
+        <option value="$PROJECT_DIR$/Q6/src/Grades.java" />
       </list>
     </option>
   </component>
@@ -141,12 +156,34 @@
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Q6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Q6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
               <item name="Q8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
               <item name="Q8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Q9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Q9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -161,7 +198,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="fi&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q4/src/FileRead.java&#10;palind&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q1/src/PalindromeInput.java&#10;grades&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q6/src/Grades.java" />
+    <property name="SearchEverywhereHistoryKey" value="filere&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q4/src/FileRead.java&#10;fi&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q4/src/FileRead.java&#10;palind&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q1/src/PalindromeInput.java&#10;grades&#9;FILE&#9;file:///home/kartikey/Desktop/java-exercises/Exercise 2/Q6/src/Grades.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -250,7 +287,7 @@
       <workItem from="1531809789830" duration="2282000" />
       <workItem from="1531812685511" duration="323000" />
       <workItem from="1531813102814" duration="10142000" />
-      <workItem from="1531830953888" duration="1733000" />
+      <workItem from="1531830953888" duration="3525000" />
     </task>
     <task id="LOCAL-00001" summary="q1-q3 exercise 2">
       <created>1531802281817</created>
@@ -291,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24502000" />
+    <option name="totallyTimeSpent" value="26294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -388,9 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,37 +569,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q6/src/Grades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q8/Q8.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="66" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,6 +587,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q6/src/Grades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-end-line="68" />
         </state>
       </provider>
     </entry>
@@ -635,7 +666,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Exercise 2</last-edited>
+          <last-edited>Q9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

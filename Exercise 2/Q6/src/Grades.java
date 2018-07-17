@@ -2,12 +2,31 @@ public class Grades {
     private int numberOfStudents;
     private int[] grades;
 
-    public int minimumGrade(int[] array) {
-        int minimum = array[0];
+    public Grades(int numberOfStudents, int[] grades) {
+        this.numberOfStudents = numberOfStudents;
+        this.grades = grades;
+    }
 
-        for (int i = 1; i < array.length; i++) {
-            if (minimum > array[i]) {
-                minimum = array[i];
+    public boolean validateArray() {
+        boolean flag = false;
+        for (int i = 0; i < grades.length; i++) {
+            if (grades[i] < 100 && grades[i] > 0) {
+                flag = true;
+            }
+        }
+        return flag;
+    }
+
+    public int minimumGrade(int[] array) {
+        int minimum = 0;
+
+        if (validateArray()) {
+            minimum = array[0];
+
+            for (int i = 1; i < array.length; i++) {
+                if (minimum > array[i]) {
+                    minimum = array[i];
+                }
             }
         }
 
@@ -15,11 +34,15 @@ public class Grades {
     }
 
     public int maximumGrade(int[] array) {
-        int maximum = array[0];
+        int maximum = 0;
 
-        for (int i = 1; i < array.length; i++) {
-            if (maximum < array[i]) {
-                maximum = array[i];
+        if (validateArray()) {
+            maximum = array[0];
+
+            for (int i = 1; i < array.length; i++) {
+                if (maximum < array[i]) {
+                    maximum = array[i];
+                }
             }
         }
 
@@ -27,14 +50,18 @@ public class Grades {
     }
 
     public double averageGrade(int[] array) {
-        double average = 0.0;
-        int sum = 0;
+        double average = 0;
 
-        for (int i = 0; i < array.length; i++) {
-            sum += array[i];
+        if (validateArray()) {
+            average = 0.0;
+            int sum = 0;
+
+            for (int i = 0; i < array.length; i++) {
+                sum += array[i];
+            }
+
+            average = sum / array.length;
         }
-
-        average = sum / array.length;
 
         return average;
     }
