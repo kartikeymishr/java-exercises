@@ -10,7 +10,7 @@ public class Factorials {
     public void intFactorials() {
         int fact;
 
-        for (int i = 1; i < 20; i++) {
+        for (int i = 1; i < 30; i++) {
             fact = (int) factorial(i);
             if (!(fact < 0)) {
                 System.out.println("The factorial of " + i + " is " + fact);

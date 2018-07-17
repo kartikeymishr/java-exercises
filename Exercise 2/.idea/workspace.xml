@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005059a8-363c-4242-8210-6cfa41c7162d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_111.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q8/Q8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1/Q1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q1/Q1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1/src/PalindromeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1/src/PalindromeInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2/Q2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q2/Q2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3/Q3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/Q3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q4/Q4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/Q4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q2/src/QuadRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2/src/QuadRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q3/src/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q3/src/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q4/src/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/src/FileRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q5/Q5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q5/Q5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6/Q6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q6/Q6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q7/Q7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Q7/Q7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Q1/PalindromeInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q1/PalindromeInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Q4/FileRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q4/FileRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q7/src/Factorials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q7/src/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q7/src/Factorials.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PalindromeInput.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q1/src/PalindromeInput.java">
+      <file leaf-file-name="FileRead.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuadRoot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q2/src/QuadRoot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -56,15 +55,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Q1/src/PalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/Q3/src/Member.java" />
         <option value="$PROJECT_DIR$/Q3/src/MemberVariable.java" />
         <option value="$PROJECT_DIR$/Q5/src/EvenNumTest.java" />
         <option value="$PROJECT_DIR$/Q6/src/Grades.java" />
-        <option value="$PROJECT_DIR$/Q2/src/QuadRoot.java" />
         <option value="$PROJECT_DIR$/src/Factorials.java" />
-        <option value="$PROJECT_DIR$/Q4/src/FileRead.java" />
         <option value="$PROJECT_DIR$/Q4/src/FileReadTest.java" />
         <option value="$PROJECT_DIR$/Q1/src/PalindromeInput.java" />
+        <option value="$PROJECT_DIR$/Q3/src/Member.java" />
+        <option value="$PROJECT_DIR$/Q7/src/Factorials.java" />
+        <option value="$PROJECT_DIR$/Q4/src/FileRead.java" />
+        <option value="$PROJECT_DIR$/Q2/src/QuadRoot.java" />
       </list>
     </option>
   </component>
@@ -102,34 +102,12 @@
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
               <item name="Q2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
               <item name="Q2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -146,33 +124,12 @@
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q6" type="462c0819:PsiDirectoryNode" />
+              <item name="Q5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Q5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -220,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeInput">
+  <component name="RunManager" selected="Application.FileRead">
     <configuration name="Factorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorials" />
       <module name="Q7" />
@@ -250,11 +207,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalindromeInput" />
         <item itemvalue="Application.FileRead" />
-        <item itemvalue="Application.Factorials" />
-        <item itemvalue="Application.MemberVariable" />
         <item itemvalue="Application.QuadRoot" />
+        <item itemvalue="Application.Factorials" />
+        <item itemvalue="Application.PalindromeInput" />
+        <item itemvalue="Application.MemberVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +230,7 @@
       <workItem from="1531802942589" duration="5574000" />
       <workItem from="1531809789830" duration="2282000" />
       <workItem from="1531812685511" duration="323000" />
-      <workItem from="1531813102814" duration="1356000" />
+      <workItem from="1531813102814" duration="6604000" />
     </task>
     <task id="LOCAL-00001" summary="q1-q3 exercise 2">
       <created>1531802281817</created>
@@ -314,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13983000" />
+    <option name="totallyTimeSpent" value="19231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -334,7 +291,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,6 +442,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Q6/Q6.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q4/src/FileReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q4/fox">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q3/src/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Q3/src/MemberVariable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -492,27 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q3/src/Member.java">
+    <entry file="file://$PROJECT_DIR$/Q7/src/Factorials.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q5/src/EvenNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q6/Q6.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q2/src/QuadRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="361">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -523,37 +483,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q7/src/Factorials.java">
+    <entry file="file://$PROJECT_DIR$/Q5/src/EvenNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q4/src/FileReadTest.java">
+    <entry file="file://$PROJECT_DIR$/Q1/src/PalindromeInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q2/src/QuadRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="285">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q4/fox">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q1/src/PalindromeInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>

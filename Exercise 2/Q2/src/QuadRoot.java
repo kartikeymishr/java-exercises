@@ -1,14 +1,20 @@
 import java.util.Scanner;
 
 public class QuadRoot {
-    private double quadRoot;
 
     public boolean isPowerOf4(int number) {
-        quadRoot = Math.pow(number, 1.0 / 4.0);
-        if (number % quadRoot == 0) {
-            return true;
+        if (number == 0) {
+            return false;
         }
-        return false;
+
+        while (number != 1) {
+            if (number % 4 != 0) {
+                return false;
+            }
+            number = number / 4;
+        }
+
+        return true;
     }
 
     public static void main(String[] args) {
