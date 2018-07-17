@@ -1,22 +1,34 @@
 import java.util.Scanner;
 
 public class PalindromeInput {
+    private String reverse;
+
+    public boolean isPalindrome(String input) {
+        for (int i = 0; i < input.length(); i++) {
+            reverse += input.charAt(i);
+        }
+
+        if (reverse.equals(input)) {
+            return true;
+        }
+        return false;
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        PalindromeInput pi = new PalindromeInput();
 
-        String original, reverse = "";
+        String original;
 
         System.out.println("Enter a string: ");
         original = scanner.nextLine();
 
-        for (int i = 0; i < original.length(); i++) {
-            reverse += original.charAt(i);
+        if (pi.isPalindrome(original)) {
+            System.out.println("Input is palindrome");
+        } else {
+            System.out.println("Input is not palindrome");
         }
 
-        if (reverse.equals(original)) {
-            System.out.println("Input is a palindrome");
-        } else {
-            System.out.println("Input is not a palindrome");
-        }
+
     }
 }

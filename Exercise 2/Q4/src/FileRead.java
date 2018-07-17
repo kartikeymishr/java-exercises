@@ -1,4 +1,3 @@
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Scanner;
@@ -6,10 +5,10 @@ import java.util.Scanner;
 public class FileRead {
     public static void main(String[] args) {
         String inputFromFile = "";
-        File file = new File("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox.txt");
+        // File file = new File("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox.txt");
 
         try {
-            Scanner scanner = new Scanner(new FileReader(file));
+            Scanner scanner = new Scanner(new FileReader("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox.txt"));
             StringBuilder sb = new StringBuilder();
             while (scanner.hasNext()) {
                 sb.append(scanner.next());
@@ -17,7 +16,7 @@ public class FileRead {
             inputFromFile = sb.toString();
             scanner.close();
         } catch (FileNotFoundException e) {
-            System.out.println("File not found");
+            System.out.println("ERROR: File not found");
         }
 
         if (!(inputFromFile.length() == 0)) {
