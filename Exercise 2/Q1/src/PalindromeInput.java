@@ -3,11 +3,9 @@ import java.util.Scanner;
 public class PalindromeInput {
     private String reverse;
 
-    public PalindromeInput() {
-        this.reverse = "";
-    }
-
     public boolean isPalindrome(String input) {
+        reverse = "";
+
         for (int i = input.length() - 1; i >= 0; i--) {
             reverse += input.charAt(i);
         }
@@ -32,7 +30,5 @@ public class PalindromeInput {
         } else {
             System.out.println("Input is not palindrome");
         }
-
-
     }
 }

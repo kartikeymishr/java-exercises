@@ -16,7 +16,6 @@ public class FileRead {
             scanner.close();
         } catch (FileNotFoundException e) {
             System.out.println("ERROR: File not found");
-            e.printStackTrace();
         }
 
         if (!(inputFromFile.length() == 0)) {
