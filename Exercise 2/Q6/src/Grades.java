@@ -54,10 +54,9 @@ public class Grades {
     }
 
     public double averageGrade() {
-        double average = 0;
+        double average = 0.0;
 
         if (validateArray()) {
-            average = 0.0;
             int sum = 0;
 
             for (int i = 0; i < grades.length; i++) {

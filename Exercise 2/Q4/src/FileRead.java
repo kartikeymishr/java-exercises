@@ -15,7 +15,7 @@ public class FileRead {
         while (scanner.hasNext()) {
             sb.append(scanner.next() + " ");
         }
-        this.inputFromFile = sb.toString();
+        this.inputFromFile = sb.toString().trim();
         scanner.close();
     }
 

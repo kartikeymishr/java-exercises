@@ -15,7 +15,7 @@ public class Factorials {
 
         for (int i = 1; i < 20; i++) {
             fact = (int) factorial(i);
-            if ((fact < Integer.MAX_VALUE) && (fact > 0) && (fact > previous)) {
+            if ((fact < Integer.MAX_VALUE) && (fact > previous)) {
                 System.out.println("The factorial of " + i + " is " + fact);
                 previous = fact;
             } else {
@@ -31,7 +31,7 @@ public class Factorials {
 
         for (int i = 1; i < 40; i++) {
             fact = factorial(i);
-            if ((fact < Long.MAX_VALUE) && (fact > 0) && (fact > previous)) {
+            if ((fact < Long.MAX_VALUE) && (fact > previous)) {
                 System.out.println("The factorial of " + i + " is " + fact);
                 previous = fact;
             } else {
