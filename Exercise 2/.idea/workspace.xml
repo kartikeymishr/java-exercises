@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="005059a8-363c-4242-8210-6cfa41c7162d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q8/src/FilterFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q8/src/FilterFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Q8/FilterFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q8/FilterFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q8/FilterFiles.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="FilterFiles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q8/src/FilterFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+            <state relative-caret-position="817">
+              <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -111,17 +110,6 @@
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
               <item name="Q8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -160,7 +148,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/DataMungerStep2_Boilerplate" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -246,7 +234,7 @@
       <workItem from="1531830953888" duration="5401000" />
       <workItem from="1531884842718" duration="717000" />
       <workItem from="1531885578874" duration="1224000" />
-      <workItem from="1531887179054" duration="5969000" />
+      <workItem from="1531887179054" duration="7465000" />
     </task>
     <task id="LOCAL-00001" summary="q1-q3 exercise 2">
       <created>1531802281817</created>
@@ -287,10 +275,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36080000" />
+    <option name="totallyTimeSpent" value="37576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1010" extended-state="7" />
+    <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -616,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q8/src/FilterFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        <state relative-caret-position="817">
+          <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
         </state>
       </provider>
     </entry>
