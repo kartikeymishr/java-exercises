@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005059a8-363c-4242-8210-6cfa41c7162d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q4/src/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q4/src/FileRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6/src/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q6/src/Grades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q7/src/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q7/src/Factorials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q8/src/FilterFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q8/src/FilterFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q2/QuadRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q2/QuadRoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q3/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q3/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q4/FileRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q4/FileRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q6/Grades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q6/Grades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q7/Factorials.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q7/Factorials.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Q8/FilterFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Q8/FilterFiles.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +23,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Grades.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q6/src/Grades.java">
+      <file leaf-file-name="FilterFiles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q8/src/FilterFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="438">
+              <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Factorials.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q7/src/Factorials.java">
+      <file leaf-file-name="FilterFilesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q8/src/FilterFilesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="76">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordFrequencyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequencyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-341">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordFrequency.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -54,17 +84,24 @@
         <option value="$PROJECT_DIR$/Q3/src/MemberVariable.java" />
         <option value="$PROJECT_DIR$/Q5/src/EvenNumTest.java" />
         <option value="$PROJECT_DIR$/src/Factorials.java" />
-        <option value="$PROJECT_DIR$/Q4/src/FileReadTest.java" />
         <option value="$PROJECT_DIR$/Q3/src/Member.java" />
         <option value="$PROJECT_DIR$/Q2/src/QuadRoot.java" />
         <option value="$PROJECT_DIR$/Q1/src/PalindromeInput.java" />
         <option value="$PROJECT_DIR$/Q8/src/FilterFIles.java" />
         <option value="$PROJECT_DIR$/Q9/FileDemo" />
         <option value="$PROJECT_DIR$/Q9/src/WordFrequency.java" />
-        <option value="$PROJECT_DIR$/Q8/src/FilterFiles.java" />
-        <option value="$PROJECT_DIR$/Q4/src/FileRead.java" />
         <option value="$PROJECT_DIR$/Q6/src/Grades.java" />
+        <option value="$PROJECT_DIR$/Q2/src/QuadRootTest.java" />
+        <option value="$PROJECT_DIR$/Q1/src/PalindromeInputTest.java" />
+        <option value="$PROJECT_DIR$/Q3/src/MemberTest.java" />
+        <option value="$PROJECT_DIR$/Q4/src/FileRead.java" />
+        <option value="$PROJECT_DIR$/Q4/src/FileReadTest.java" />
+        <option value="$PROJECT_DIR$/Q5/src/EvenNumTestTester.java" />
+        <option value="$PROJECT_DIR$/Q7/src/FactorialsTest.java" />
         <option value="$PROJECT_DIR$/Q7/src/Factorials.java" />
+        <option value="$PROJECT_DIR$/Q8/src/FilterFilesTest.java" />
+        <option value="$PROJECT_DIR$/Q8/src/FilterFiles.java" />
+        <option value="$PROJECT_DIR$/Q9/src/WordFrequencyTest.java" />
       </list>
     </option>
   </component>
@@ -96,83 +133,6 @@
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Q7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercise 2" type="b2602c69:ProjectViewProjectNode" />
@@ -216,7 +176,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/DataMungerStep2_Boilerplate" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -244,41 +204,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Factorials">
-    <configuration name="Factorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorials" />
+  <component name="RunManager" selected="JUnit.WordFrequencyTest">
+    <configuration name="EvenNumTestTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EvenNumTestTester" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FactorialsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Q7" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FactorialsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="FileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileRead" />
-      <module name="Q4" />
-    </configuration>
-    <configuration name="FilterFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FilterFiles" />
+    <configuration name="FilterFilesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Q8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FilterFilesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Grades" />
+    <configuration name="GradesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Q6" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GradesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="PalindromeInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeInput" />
-      <module name="Q1" />
+    <configuration name="WordFrequencyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Q9" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFrequencyTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <list>
-      <item itemvalue="Application.FileRead" />
-      <item itemvalue="Application.FilterFiles" />
-      <item itemvalue="Application.Grades" />
-      <item itemvalue="Application.Factorials" />
-      <item itemvalue="Application.PalindromeInput" />
+      <item itemvalue="JUnit.EvenNumTestTester" />
+      <item itemvalue="JUnit.GradesTest" />
+      <item itemvalue="JUnit.FactorialsTest" />
+      <item itemvalue="JUnit.FilterFilesTest" />
+      <item itemvalue="JUnit.WordFrequencyTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorials" />
-        <item itemvalue="Application.FileRead" />
-        <item itemvalue="Application.PalindromeInput" />
-        <item itemvalue="Application.FilterFiles" />
-        <item itemvalue="Application.Grades" />
+        <item itemvalue="JUnit.WordFrequencyTest" />
+        <item itemvalue="JUnit.FilterFilesTest" />
+        <item itemvalue="JUnit.FactorialsTest" />
+        <item itemvalue="JUnit.GradesTest" />
+        <item itemvalue="JUnit.EvenNumTestTester" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +326,7 @@
       <workItem from="1531830953888" duration="5401000" />
       <workItem from="1531884842718" duration="717000" />
       <workItem from="1531885578874" duration="1224000" />
-      <workItem from="1531887179054" duration="8296000" />
+      <workItem from="1531887179054" duration="14364000" />
     </task>
     <task id="LOCAL-00001" summary="q1-q3 exercise 2">
       <created>1531802281817</created>
@@ -341,8 +366,40 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PalindromeInputTest - 2018.07.18 at 18h 00m 23s.xml">
+      <configuration name="PalindromeInputTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuadRootTest - 2018.07.18 at 18h 01m 30s.xml">
+      <configuration name="QuadRootTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberTest - 2018.07.18 at 18h 04m 02s.xml">
+      <configuration name="MemberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileReadTest - 2018.07.18 at 18h 36m 06s.xml">
+      <configuration name="FileReadTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileReadTest - 2018.07.18 at 18h 37m 45s.xml">
+      <configuration name="FileReadTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvenNumTestTester - 2018.07.18 at 18h 38m 20s.xml">
+      <configuration name="EvenNumTestTester" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradesTest - 2018.07.18 at 18h 38m 32s.xml">
+      <configuration name="GradesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FactorialsTest - 2018.07.18 at 18h 40m 13s.xml">
+      <configuration name="FactorialsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FactorialsTest - 2018.07.18 at 18h 40m 41s.xml">
+      <configuration name="FactorialsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterFilesTest - 2018.07.18 at 18h 43m 49s.xml">
+      <configuration name="FilterFilesTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38407000" />
+    <option name="totallyTimeSpent" value="44475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -358,7 +415,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3288889" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -588,7 +645,6 @@
     <entry file="file://$PROJECT_DIR$/Q6/Q6.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q4/src/FileReadTest.java" />
     <entry file="file://$PROJECT_DIR$/Q4/fox">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,13 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="46" selection-start-line="16" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q9/FileDemo">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -613,24 +662,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q8/src/FilterFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q1/src/PalindromeInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q2/src/QuadRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -655,13 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q6/src/Grades.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -669,10 +697,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Q2/src/QuadRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q2/src/QuadRootTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q1/src/PalindromeInputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q3/src/MemberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q4/src/FileReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q4/src/FileRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="73" lean-forward="true" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q5/src/EvenNumTestTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q6/src/GradesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q7/src/FactorialsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Q7/src/Factorials.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="38">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q8/src/FilterFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q8/src/FilterFilesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequencyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q9/src/WordFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

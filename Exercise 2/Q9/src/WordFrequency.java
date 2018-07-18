@@ -12,7 +12,7 @@ public class WordFrequency {
         this.file = new File(filePath);
     }
 
-    public void populateWordCountMap() {
+    public Map populateWordCountMap() {
         try {
             Scanner sc = new Scanner(file);
 
@@ -30,6 +30,7 @@ public class WordFrequency {
         } catch (FileNotFoundException e) {
             System.out.println("ERROR: File not found");
         }
+        return wordCount;
     }
 
     public void displayValues() {

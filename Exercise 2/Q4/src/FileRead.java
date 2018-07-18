@@ -9,7 +9,7 @@ public class FileRead {
         inputFromFile = "";
     }
 
-    public void readFileContent(FileReader fileReader) {
+    public String readFileContent(FileReader fileReader) {
         Scanner scanner = new Scanner(fileReader);
         StringBuilder sb = new StringBuilder();
         while (scanner.hasNext()) {
@@ -17,15 +17,18 @@ public class FileRead {
         }
         this.inputFromFile = sb.toString().trim();
         scanner.close();
+        return this.inputFromFile;
     }
 
-    public void printContent() {
+    public String printContent() {
+        String upperCaseInput = this.inputFromFile.toUpperCase();
         if (!(this.inputFromFile.length() == 0)) {
             System.out.println("Contents of file: ");
-            System.out.println(this.inputFromFile.toUpperCase());
+            System.out.println(upperCaseInput);
             System.out.println("Length of file: ");
             System.out.println(this.inputFromFile.length());
         }
+        return upperCaseInput;
     }
 
 
