@@ -3,26 +3,37 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 public class FileRead {
-    public static void main(String[] args) {
-        String inputFromFile = "";
+    private String inputFromFile;
 
-        try {
-            Scanner scanner = new Scanner(new FileReader("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox"));
-            StringBuilder sb = new StringBuilder();
-            while (scanner.hasNext()) {
-                sb.append(scanner.next() + " ");
-            }
-            inputFromFile = sb.toString();
-            scanner.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("ERROR: File not found");
+    public FileRead() {
+        inputFromFile = "";
+    }
+
+    public void readFileContent(FileReader fileReader) {
+        Scanner scanner = new Scanner(fileReader);
+        StringBuilder sb = new StringBuilder();
+        while (scanner.hasNext()) {
+            sb.append(scanner.next() + " ");
         }
+        this.inputFromFile = sb.toString();
+        scanner.close();
+    }
 
-        if (!(inputFromFile.length() == 0)) {
+    public void printContent() {
+        if (!(this.inputFromFile.length() == 0)) {
             System.out.println("Contents of file: ");
-            System.out.println(inputFromFile.toUpperCase());
+            System.out.println(this.inputFromFile.toUpperCase());
             System.out.println("Length of file: ");
-            System.out.println(inputFromFile.length());
+            System.out.println(this.inputFromFile.length());
         }
+    }
+
+
+    public static void main(String[] args) throws FileNotFoundException {
+        FileRead fr = new FileRead();
+        FileReader fileReader = new FileReader("/home/kartikey/Desktop/java-exercises/Exercise 2/Q4/fox");
+
+        fr.readFileContent(fileReader);
+        fr.printContent();
     }
 }
