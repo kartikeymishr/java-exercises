@@ -9,11 +9,15 @@ public class Factorials {
 
     public void intFactorials() {
         int fact;
+        int previous = 0;
 
-        for (int i = 1; i < 30; i++) {
+        System.out.println(Integer.MAX_VALUE);
+
+        for (int i = 1; i < 20; i++) {
             fact = (int) factorial(i);
-            if (!(fact < 0)) {
+            if ((fact < Integer.MAX_VALUE) && (fact > 0) && (fact > previous)) {
                 System.out.println("The factorial of " + i + " is " + fact);
+                previous = fact;
             } else {
                 System.out.println("The factorial of " + i + " is out of range");
                 return;
@@ -23,11 +27,13 @@ public class Factorials {
 
     public void longFactorials() {
         long fact;
+        long previous = 0;
 
         for (int i = 1; i < 40; i++) {
             fact = factorial(i);
-            if (fact < Long.MAX_VALUE && fact > 0) {
+            if ((fact < Long.MAX_VALUE) && (fact > 0) && (fact > previous)) {
                 System.out.println("The factorial of " + i + " is " + fact);
+                previous = fact;
             } else {
                 System.out.println("The factorial of " + i + " is out of range");
                 return;
