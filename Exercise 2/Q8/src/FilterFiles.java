@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class FilterFiles {
-    public void listing(File[] listOfFiles, String searchString) throws FileNotFoundException {
+    public void listing(File[] listOfFiles, String searchString) {
         for (File file : listOfFiles) {
             if (file.isDirectory()) {
                 listing(file.listFiles(), searchString);
@@ -12,7 +12,7 @@ public class FilterFiles {
         }
     }
 
-    public void readContents(File file) throws FileNotFoundException {
+    public void readContents(File file) {
         FileInputStream stream = null;
 
         try {
@@ -44,10 +44,6 @@ public class FilterFiles {
         File folder = new File("/home/kartikey/Desktop");
         File[] listOfFiles = folder.listFiles();
         FilterFiles ff = new FilterFiles();
-        try {
-            ff.listing(listOfFiles, ".java");
-        } catch (FileNotFoundException e) {
-            System.out.println("ERROR: File not found");
-        }
+        ff.listing(listOfFiles, ".xml");
     }
 }
